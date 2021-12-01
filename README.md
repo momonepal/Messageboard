@@ -3,10 +3,12 @@
 
 ## 3.5Chan - A Messageboard web app
 
-### Description: <br>
+####Description: <br>
 3.5Chan is Messageboard web app that allows users to anonymously create and view discussions.
 
-This is built on react along with JavaScript, HTML, CSS and ChakraUI. Deployed at https://not3dot5chan.herokuapp.com/
+This is built on react along with JavaScript, HTML, CSS and ChakraUI. 
+
+[GitHub](https://github.com/momonepal/Messageboard)   |    Deployed at [https://not3dot5chan.herokuapp.com/](https://not3dot5chan.herokuapp.com/)
 
 ## How it works
 * You can see the posts made by the users in the landing page
